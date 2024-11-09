@@ -1,0 +1,47 @@
+
+```json
+{
+  "planilha": {
+    "titulo": "Planilha do Projeto - Gerador Automático de Landing Page",
+    "descricao": "A planilha contém os detalhes das tarefas, responsáveis e prazos para o desenvolvimento do projeto.",
+    "itens": [
+      {
+        "tarefa": "Definir requisitos",
+        "responsavel": "Equipe de Planejamento",
+        "data_limite": "2023-11-05",
+        "status": "Pendente",
+        "observacoes": "Coletar informações detalhadas sobre as funcionalidades desejadas."
+      },
+      {
+        "tarefa": "Desenvolver script",
+        "responsavel": "Equipe de Desenvolvimento",
+        "data_limite": "2023-11-20",
+        "status": "Pendente",
+        "observacoes": "Implementar as funcionalidades definidas na fase de planejamento."
+      },
+      {
+        "tarefa": "Testar funcionalidades",
+        "responsavel": "Equipe de Testes",
+        "data_limite": "2023-11-25",
+        "status": "Pendente",
+        "observacoes": "Realizar testes de usabilidade e performance da landing page."
+      },
+      {
+        "tarefa": "Realizar integrações",
+        "responsavel": "Equipe de Integração",
+        "data_limite": "2023-11-30",
+        "status": "Pendente",
+        "observacoes": "Integrar com ferramentas de marketing e análise."
+      },
+      {
+        "tarefa": "Validar entrega",
+        "responsavel": "Gerente de Projeto",
+        "data_limite": "2023-12-05",
+        "status": "Pendente",
+        "observacoes": "Revisar todas as funcionalidades entregues e coletar feedback do cliente."
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Gerador Automático de Landing Page"
+}
+```
