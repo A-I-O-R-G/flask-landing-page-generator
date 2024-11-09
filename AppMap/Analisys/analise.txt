@@ -1,0 +1,46 @@
+
+```json
+{
+    "resumo": "Desenvolvimento de um script que gera automaticamente uma landing page a partir de uma descrição fornecida pelo usuário, incluindo integrações com ferramentas de marketing e análise.",
+    "requisitos_funcionais": [
+        "Input de título da página.",
+        "Input de conteúdo textual.",
+        "Opção para upload de imagens.",
+        "Layout responsivo que se adapta a diferentes dispositivos.",
+        "Opções para adicionar formulários de captura de leads.",
+        "Opções para inserir botões de chamada para ação."
+    ],
+    "requisitos_nao_funcionais": [
+        "A landing page gerada deve carregar rapidamente.",
+        "A interface deve ser intuitiva e fácil de usar.",
+        "O script deve ser escalável para permitir futuras adições de recursos."
+    ],
+    "dependencias": [
+        "A fase de Desenvolvimento depende da conclusão da fase de Planejamento.",
+        "A fase de Testes depende da conclusão da fase de Desenvolvimento.",
+        "A fase de Integração depende da conclusão da fase de Testes.",
+        "A fase de Entrega depende da conclusão da fase de Integração."
+    ],
+    "marcos": [
+        "Marco 1: Conclusão da Definição dos Requisitos em 2023-11-05.",
+        "Marco 2: Finalização do Desenvolvimento do Script em 2023-11-20.",
+        "Marco 3: Conclusão dos Testes em 2023-11-25.",
+        "Marco 4: Integração com ferramentas de marketing em 2023-11-30.",
+        "Marco 5: Entrega do projeto em 2023-12-05."
+    ],
+    "recursos": [
+        "Recurso 1: Equipe de Planejamento.",
+        "Recurso 2: Equipe de Desenvolvimento.",
+        "Recurso 3: Equipe de Testes.",
+        "Recurso 4: Equipe de Integração.",
+        "Recurso 5: Gerente de Projeto.",
+        "Recurso 6: Orçamento para ferramentas de desenvolvimento.",
+        "Recurso 7: Servidores para testes."
+    ],
+    "riscos": [
+        "Risco 1: Atrasos na entrega devido à falta de recursos.",
+        "Risco 2: Potenciais dificuldades na integração com ferramentas externas.",
+        "Risco 3: Mudanças nos requisitos do cliente durante o desenvolvimento."
+    ]
+}
+```
