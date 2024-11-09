@@ -1,0 +1,100 @@
+
+Aqui está o Roadmap do Projeto em formato JSON, baseado nas informações fornecidas no cronograma, planilha e documento pré-projeto.
+
+```json
+{
+  "Roadmap": {
+    "nome_do_Roadmap": "Roadmap do Projeto - Gerador Automático de Landing Page",
+    "fases": [
+      {
+        "fase": "Planejamento",
+        "descricao": "Definição dos requisitos e planejamento das atividades.",
+        "inicio": "2023-11-01",
+        "fim": "2023-11-05",
+        "tarefas": [
+          {
+            "tarefa": "Definir requisitos",
+            "responsavel": "Equipe de Planejamento",
+            "data_limite": "2023-11-05",
+            "status": "Pendente",
+            "observacoes": "Coletar informações detalhadas sobre as funcionalidades desejadas."
+          }
+        ]
+      },
+      {
+        "fase": "Desenvolvimento",
+        "descricao": "Desenvolvimento do script para geração da landing page.",
+        "inicio": "2023-11-06",
+        "fim": "2023-11-20",
+        "tarefas": [
+          {
+            "tarefa": "Desenvolver script",
+            "responsavel": "Equipe de Desenvolvimento",
+            "data_limite": "2023-11-20",
+            "status": "Pendente",
+            "observacoes": "Implementar as funcionalidades definidas na fase de planejamento."
+          }
+        ]
+      },
+      {
+        "fase": "Testes",
+        "descricao": "Realização de testes funcionais e não funcionais.",
+        "inicio": "2023-11-21",
+        "fim": "2023-11-25",
+        "tarefas": [
+          {
+            "tarefa": "Testar funcionalidades",
+            "responsavel": "Equipe de Testes",
+            "data_limite": "2023-11-25",
+            "status": "Pendente",
+            "observacoes": "Realizar testes de usabilidade e performance da landing page."
+          }
+        ]
+      },
+      {
+        "fase": "Integração",
+        "descricao": "Integração com ferramentas de marketing e análise.",
+        "inicio": "2023-11-26",
+        "fim": "2023-11-30",
+        "tarefas": [
+          {
+            "tarefa": "Realizar integrações",
+            "responsavel": "Equipe de Integração",
+            "data_limite": "2023-11-30",
+            "status": "Pendente",
+            "observacoes": "Integrar com ferramentas de marketing e análise."
+          }
+        ]
+      },
+      {
+        "fase": "Entrega",
+        "descricao": "Entrega do projeto e validação com o cliente.",
+        "inicio": "2023-12-01",
+        "fim": "2023-12-05",
+        "tarefas": [
+          {
+            "tarefa": "Validar entrega",
+            "responsavel": "Gerente de Projeto",
+            "data_limite": "2023-12-05",
+            "status": "Pendente",
+            "observacoes": "Revisar todas as funcionalidades entregues e coletar feedback do cliente."
+          }
+        ]
+      }
+    ],
+    "descricao": "Desenvolvimento de um script que gera automaticamente uma landing page a partir de uma descrição fornecida pelo usuário.",
+    "objetivos": [
+      "Permitir que o usuário insira informações como título, conteúdo, imagens e outros elementos visuais.",
+      "Formatar as informações em um layout atraente e funcional para conversões.",
+      "Garantir que a landing page seja responsiva e adaptável a diferentes tamanhos de tela.",
+      "Incluir integrações com ferramentas de marketing e análise."
+    ],
+    "tecnologias_sugeridas": [
+      "HTML, CSS e JavaScript para a criação da landing page.",
+      "Frameworks como Bootstrap para garantir responsividade.",
+      "Integrações com APIs de ferramentas de marketing e análise."
+    ],
+    "risco": "Potenciais dificuldades na integração com ferramentas externas."
+  }
+}
+```
