@@ -1,0 +1,80 @@
+
+```json
+{
+  "cronograma": {
+    "fases": [
+      {
+        "fase": "Planejamento",
+        "descricao": "Definição dos requisitos e planejamento das atividades.",
+        "inicio": "2023-11-01",
+        "fim": "2023-11-05"
+      },
+      {
+        "fase": "Desenvolvimento",
+        "descricao": "Desenvolvimento do script para geração da landing page.",
+        "inicio": "2023-11-06",
+        "fim": "2023-11-20"
+      },
+      {
+        "fase": "Testes",
+        "descricao": "Realização de testes funcionais e não funcionais.",
+        "inicio": "2023-11-21",
+        "fim": "2023-11-25"
+      },
+      {
+        "fase": "Integração",
+        "descricao": "Integração com ferramentas de marketing e análise.",
+        "inicio": "2023-11-26",
+        "fim": "2023-11-30"
+      },
+      {
+        "fase": "Entrega",
+        "descricao": "Entrega do projeto e validação com o cliente.",
+        "inicio": "2023-12-01",
+        "fim": "2023-12-05"
+      }
+    ]
+  },
+  "nome_do_cronograma": "Cronograma do Projeto - Gerador Automático de Landing Page"
+}
+```
+
+```json
+{
+  "planilha": {
+    "itens": [
+      {
+        "tarefa": "Definir requisitos",
+        "responsavel": "Equipe de Planejamento",
+        "data_limite": "2023-11-05",
+        "status": "Pendente"
+      },
+      {
+        "tarefa": "Desenvolver script",
+        "responsavel": "Equipe de Desenvolvimento",
+        "data_limite": "2023-11-20",
+        "status": "Pendente"
+      },
+      {
+        "tarefa": "Testar funcionalidades",
+        "responsavel": "Equipe de Testes",
+        "data_limite": "2023-11-25",
+        "status": "Pendente"
+      },
+      {
+        "tarefa": "Realizar integrações",
+        "responsavel": "Equipe de Integração",
+        "data_limite": "2023-11-30",
+        "status": "Pendente"
+      },
+      {
+        "tarefa": "Validar entrega",
+        "responsavel": "Gerente de Projeto",
+        "data_limite": "2023-12-05",
+        "status": "Pendente"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Gerador Automático de Landing Page"
+}
+```
