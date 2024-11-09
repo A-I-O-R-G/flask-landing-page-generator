@@ -1,0 +1,41 @@
+
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Gerador Automático de Landing Page",
+    "descricao": "Desenvolvimento de um script que gera automaticamente uma landing page a partir de uma descrição fornecida pelo usuário.",
+    "objetivos": [
+      "Permitir que o usuário insira informações como título, conteúdo, imagens e outros elementos visuais.",
+      "Formatar as informações em um layout atraente e funcional para conversões.",
+      "Garantir que a landing page seja responsiva e adaptável a diferentes tamanhos de tela.",
+      "Incluir integrações com ferramentas de marketing e análise, como formulários de captura de leads e botões de chamada para ação (CTAs)."
+    ],
+    "requisitos_funcionais": [
+      "Input de título da página.",
+      "Input de conteúdo textual.",
+      "Opção para upload de imagens.",
+      "Layout responsivo que se adapta a diferentes dispositivos.",
+      "Opções para adicionar formulários de captura de leads.",
+      "Opções para inserir botões de chamada para ação."
+    ],
+    "requisitos_nao_funcionais": [
+      "A landing page gerada deve carregar rapidamente.",
+      "A interface deve ser intuitiva e fácil de usar.",
+      "O script deve ser escalável para permitir futuras adições de recursos."
+    ],
+    "tecnologias_sugeridas": [
+      "HTML, CSS e JavaScript para a criação da landing page.",
+      "Frameworks como Bootstrap para garantir responsividade.",
+      "Integrações com APIs de ferramentas de marketing e análise."
+    ],
+    "cronograma": "A definir conforme as necessidades do projeto.",
+    "risco": "Potenciais dificuldades na integração com ferramentas externas."
+  }
+}
+```
+
+```json
+{
+  "name_doc_Pre_Projeto": "Documento Pre-Projeto - Gerador Automático de Landing Page"
+}
+```
